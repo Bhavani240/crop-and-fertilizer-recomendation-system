@@ -38,14 +38,6 @@ This Crop and Fertilizer Recommendation System is a smart, data-driven web appli
 
 ---
 
-## 📁 Project Structure
-├── app.py # Main Streamlit application
-├── models/ # Pre-trained ML models (.pkl files)
-├── data/ # CSV datasets used for training & prediction
-├── requirements.txt # Python package dependencies
-└── README.md # Project documentation
-
-
 
 ---
 
