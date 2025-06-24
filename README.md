@@ -36,13 +36,7 @@ This Crop and Fertilizer Recommendation System is a smart, data-driven web appli
 - Matplotlib & Seaborn (Visualization)
 - Joblib (Model Saving/Loading)
 
----
 
-
----
-
-
----
 
 ## 📊 Datasets Used
 
